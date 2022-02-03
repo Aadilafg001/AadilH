@@ -77,14 +77,6 @@ def telegram():
 	os.system("xdg-open https://www.facebook.com/groups/890374404870466/?ref=share")
 	
 	
-	
-back = 0
-oks = []
-id = []
-cpb = []
-vulnot = '\x1b[31mNot Vuln'
-vuln = '\x1b[32mVuln'
-os.system('clear
 
 
 logo ="""
