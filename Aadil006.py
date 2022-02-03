@@ -92,8 +92,7 @@ logo ="""
 --------------------------------------------------
  Author           : Aadil/001
  GitHub           : https://github.com/Aadilafg001
- Facebook      : https://www.facebook.com/profile.php?id=100006267764888
- Fb grope        : https://www.facebook.com/groups/890374404870466/?ref=share
+ Facebook      : 100006267764888
 --------------------------------------------------
 """
 back = 0
