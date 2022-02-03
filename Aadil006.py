@@ -47,22 +47,61 @@ def t():
 def cb():
     os.system('clear')
 
+#STYLISH 
+
+def Style_profaisor(z):
+    for e in z + '\n':
+        sys.stdout.write(e)
+        sys.stdout.flush()
+        time.sleep(0.1)
+    
+
+#
+
+
+
+
+Mking_youtube = random.choice(["https://youtube.com/channel/UCf1GQX6XsLv46xeUfo_GbPw"])
+ 
+youtuber = Mking_youtube
+ 
+def youtube():
+	Style_profaisor("  please Follow My Fb account author :) Thank you")
+	os.system("xdg-open https://www.facebook.com/profile.php?id=100006267764888")
+	menu()
+	
+#MY TELEGRAM GROUp
+ 
+def telegram():
+	Style_profaisor("  please Join My FB Grope :) Thank you")
+	os.system("xdg-open https://www.facebook.com/groups/890374404870466/?ref=share")
+	
+	
+	
+back = 0
+oks = []
+id = []
+cpb = []
+vulnot = '\x1b[31mNot Vuln'
+vuln = '\x1b[32mVuln'
+os.system('clear
+
 
 logo ="""
-\033[1;91m     ..##..........##.....####....#####.##\033[1;0m
-\033[1;91m    .##.##....##.##.##....##...##.....##\033[1;0m
-\033[1;97m    .##..##..##..##.##......##.##....##\033[1;0m
-\033[1;97m    .#####.#####.##.....##..##....##\033[1;0m
-\033[1;91m    ##...##.##...##.##...##...##....##\033[1;0m
-\033[1;91m    ##....##.##..##.####..#####.######\033[1;0m
+\033[1;91m............##.........######\033[1;0m
+\033[1;91m..........##.##.......##\033[1;0m
+\033[1;97m.........##..##......##\033[1;0m
+\033[1;97m........#######.....######\033[1;0m
+\033[1;91m.......##....##....##\033[1;0m
+\033[1;91m......##.....##...##\033[1;0m
+\033[1;97m.....##......##..#######\033[1;0m
 
 
 --------------------------------------------------
- Author      : Ali Cybery 
- GitHub      : https://github.com/Alicybery420
- YouTube     : Nadarm
- Telegram    : @Andertacker 
- Blogspot    : Nadarm
+ Author           : Aadil/001
+ GitHub           : https://github.com/Aadilafg001
+ Facebook      : https://www.facebook.com/profile.php?id=100006267764888
+ Fb grope        : https://www.facebook.com/groups/890374404870466/?ref=share
 --------------------------------------------------
 """
 back = 0
